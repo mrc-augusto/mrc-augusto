@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there. I'm Maurício Augusto 👋
 
-<!--
-**mrc-augusto/mrc-augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####About
+I'm a Web Developer and I'm studying web development at [Rocketseat](https://rockesteat.com.br) with focus in ReactJs and React Native.
 
-Here are some ideas to get you started:
+####Current Stack
+- :zap: Main Language: `Javascript`
+- :triangular_ruler: Backend: `Nodejs`
+- :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Tailwind`, `Bootstrap`, `Sass`, `Radix`
+- :art: Layout Design: `Figma`
+- :package: Version code control: `Git & Github`
+- :wrench: Tools: `VSCode`, `Markdown`
+- :globe_with_meridians: I'm mostly active within the `Rockesteat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Contacts
+- :email: Email: mrc_augusto@hotmail.com
