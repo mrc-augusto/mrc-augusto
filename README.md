@@ -5,7 +5,7 @@ I'm a Web Developer and I'm studying web development at [Rocketseat](https://roc
 
 #### Current Stack
 - :zap: Main Language: `Javascript`
-- :triangular_ruler: Backend: `Nodejs`, `Express`
+- :triangular_ruler: Backend: `Nodejs`, `Express`, `SQL`
 - :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Tailwind`, `Bootstrap`, `Sass`, `Radix`
 - :art: Layout Design: `Figma`
 - :package: Version code control: `Git & Github`
