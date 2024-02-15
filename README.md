@@ -9,7 +9,7 @@ I'm a Web Developer and I'm studying web development at [Rocketseat](https://roc
 - :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Tailwind`, `Bootstrap`, `Sass`, `Radix`
 - :art: Layout Design: `Figma`
 - :package: Version code control: `Git & Github`
-- :wrench: Tools: `VSCode`, `Markdown`, `Insomnia`
+- :wrench: Tools: `VSCode`, `Markdown`, `Insomnia`, `Beekeper`
 - :globe_with_meridians: I'm mostly active within the `Rockesteat Community`
 
 #### Contacts
