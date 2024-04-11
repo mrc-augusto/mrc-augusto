@@ -8,7 +8,7 @@ I'm a Web Developer and I'm studying web development at [Rocketseat](https://roc
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioaugusto/)
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mrc_augusto)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrc-augusto&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrc-augusto&theme=dracula&card_width=350)](https://git.io/streak-stats)
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrc-augusto&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc-augusto&layout=compact&theme=dracula)
 
