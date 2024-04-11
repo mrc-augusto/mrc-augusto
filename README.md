@@ -44,4 +44,4 @@ I'm a Web Developer and I'm studying web development at [Rocketseat](https://roc
 
 
 #### Contacts
-- :email: Email: mrc_augusto@hotmail.com
+:email: Email: mrc_augusto@hotmail.com
