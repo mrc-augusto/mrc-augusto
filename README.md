@@ -10,6 +10,7 @@ I'm a Web Developer and I'm studying web development at [Rocketseat](https://roc
 
 
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrc-augusto&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc-augusto)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current Stack
 
